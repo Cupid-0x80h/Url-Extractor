@@ -15,8 +15,8 @@ This program extracts all unique links from a given webpage.
 2.  **Clone the Repository**
 
     ``` bash
-    git clone <your-repo-url>
-    cd <repo-folder>
+    git clone https://github.com/Cupid-0x80h/Url-Extractor.git
+    cd Url-Extractor
     ```
 
 3.  **Execute the Script**\
